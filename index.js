@@ -23,7 +23,7 @@ const GET_ALL_FILMS = gql`
       films {
         title
         releaseDate
-        director
+        director  
         openingCrawl
       }
     }
